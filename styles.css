@@ -1,0 +1,6 @@
+@import"./bootstrap.css"
+
+.header{height:500px; background-color: blueviolet;text-align: center;}
+.sidebar{height: 400px; background-color:greenyellow;text-align: center;}
+.main-page{height: 400px; background-color:crimson;text-align: center;}
+.footer{height:100px; text-align: center; background-color:lightseagreen;}

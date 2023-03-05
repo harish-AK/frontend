@@ -1,1 +1,1 @@
-# frontend -cricket items (website) using angular
+# frontend -cricket items (website) using angular framework
